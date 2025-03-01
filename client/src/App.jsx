@@ -21,3 +21,12 @@ export default function App() {
     </BrowserRouter>
   );
 }
+
+/*
+  Tailwind CSS Docs: 
+    https://v3.tailwindcss.com/docs/guides/vite
+  MERN Stack Project: 
+    https://www.youtube.com/watch?v=VAaUy_Moivw
+  Progress:
+    Continue from 44:58
+*/

@@ -7,6 +7,4 @@ export default function Home() {
     </div>
   )
 }
-//Tailwind CSS Docs: https://v3.tailwindcss.com/docs/guides/vite
-// https://www.youtube.com/watch?v=VAaUy_Moivw
-// continue from 23:35
+
