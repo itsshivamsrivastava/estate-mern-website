@@ -28,5 +28,5 @@ export default function App() {
   MERN Stack Project: 
     https://www.youtube.com/watch?v=VAaUy_Moivw
   Progress:
-    Continue from 44:58
+    Continue from 57:26
 */
